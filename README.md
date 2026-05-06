@@ -113,7 +113,18 @@ A complete zoo management and booking web application.
 Import the included safari.sql file in phpMyAdmin
 
 ## Screenshots
-(Add your screenshots here)
+
+![Screenshot 1](img/screen-short/1.png)
+
+![Screenshot 2](img/screen-short/2.png)
+
+![Screenshot 3](img/screen-short/Screenshot%202026-04-29%20172740.png)
+
+![Screenshot 4](img/screen-short/Screenshot%202026-04-29%20172805.png)
+
+![Screenshot 5](img/screen-short/Screenshot%202026-04-29%20172826.png)
+
+![Screenshot 6](img/screen-short/Screenshot%202026-04-29%20172850.png)
 
 ## License
 MIT License
